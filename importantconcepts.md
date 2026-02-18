@@ -1,3 +1,5 @@
+## Important Questions for exam
+
 1. What GitHub Copilot pricing plan gives you access to your company’s knowledge bases?
 
 2. What is a likely effect of GitHub Copilot being trained on commonly used code patterns?
